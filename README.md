@@ -1,5 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=200&color=00FF41&multiline=true&width=600&height=140&lines=101001011010010110100101;010110100101101001011010;110100101101001011010010;ACCESSING+WenaXMD...;ACCESS+GRANTED)](https://git.io/typing-svg)
----
+
+---[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=150&color=FF0000&multiline=true&width=650&height=160&lines=101011001010110010101100;010100110101001101010011;RGB+SIGNAL+DETECTED...;ACCESSING+WenaXMD+SYSTEM...)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=150&color=00FF00&multiline=true&width=650&height=160&lines=110010101100101011001010;001101010011010100110101;SYNCING+RGB+CHANNELS...;ACCESS+GRANTED)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=150&color=00BFFF&multiline=true&width=650&height=160&lines=101010101010101010101010;010101010101010101010101;SYSTEM+OVERRIDE...;WELCOME+OPERATOR)](https://git.io/typing-svg)
 
 📁 GitHub Repo Structure:
 ```
