@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&pause=1000&width=435&lines=Welcome+%F0%9F%98%8A+to+wena+tech+powered+by+WenaXMD+;Thanks+%F0%9F%98%8A+for+the+star+;DM+for+any+type+of+BOT;%F0%9F%92%89%F0%9F%A9%B8%E2%9C%8C%EF%B8%8F+Tech+fam)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=200&color=00FF41&multiline=true&width=600&height=140&lines=101001011010010110100101;010110100101101001011010;110100101101001011010010;ACCESSING+WenaXMD...;ACCESS+GRANTED)](https://git.io/typing-svg)
 ---
 
 📁 GitHub Repo Structure:
