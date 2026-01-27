@@ -1,5 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=200&color=00FF41&multiline=true&width=600&height=140&lines=101001011010010110100101;010110100101101001011010;110100101101001011010010;ACCESSING+WenaXMD...;ACCESS+GRANTED)](https://git.io/typing-svg)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Storm&pause=1000&color=F70000&background=000000&multiline=true&width=435&lines=%60%60%60+%F0%9F%93%8A+SYSTEM+STATUS+++-+%F0%9F%9F%A2+Server+Uptime%3A+100%25+++-+%F0%9F%94%84+CPU+Load%3A+41%25+++-+%F0%9F%92%BE+Memory+Usage%3A+2.3+GB+%2F+4+GB+++-+%F0%9F%94%90+Firewall%3A+Active+++-+%F0%9F%93%A1+Connection%3A+Stable++++%F0%9F%91%A4+YOUR+PROFILE+++-+Name%3A+%7Bname!%7D+++-+ID%3A+WENA-00123+++-+Member+Since%3A+Jan+2024+++-+Current+Plan%3A+Premium+++-+Last+Login%3A+Today++%F0%9F%92%B0+ACCOUNT+BALANCE+++-+Wallet+Balance%3A+KES+420.00+++-+Points%3A+135+++-+Last+Transaction%3A+%2BKES+200+(Top-up)+++-+Billing+Method%3A+M-Pesa+++-+Renewal%3A+Auto-renew+enabled+%60%60%60+1.+Previous+Menu+0.+Main+Menu)](https://git.io/typing-svg)
 
 📁 GitHub Repo Structure:
 ```
