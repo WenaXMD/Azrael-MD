@@ -1,9 +1,35 @@
+<svg width="300" height="300" viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00ff41"/>
+      <stop offset="50%" stop-color="#00b3ff"/>
+      <stop offset="100%" stop-color="#b400ff"/>
+    </linearGradient>
+  </defs>
 
----[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=150&color=FF0000&multiline=true&width=650&height=160&lines=101011001010110010101100;010100110101001101010011;RGB+SIGNAL+DETECTED...;ACCESSING+WenaXMD+SYSTEM...)](https://git.io/typing-svg)
+  <!-- Dragon swirl body -->
+  <path d="M150 40
+           C 220 40, 260 120, 200 160
+           C 170 180, 160 200, 190 230
+           C 140 220, 120 180, 140 150
+           C 90 160, 60 130, 80 100
+           C 100 70, 130 70, 150 90"
+        fill="none"
+        stroke="url(#grad)"
+        stroke-width="8"
+        stroke-linecap="round"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=150&color=00FF00&multiline=true&width=650&height=160&lines=110010101100101011001010;001101010011010100110101;SYNCING+RGB+CHANNELS...;ACCESS+GRANTED)](https://git.io/typing-svg)
+  <!-- Head -->
+  <circle cx="155" cy="85" r="6" fill="#00ff41"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=150&color=00BFFF&multiline=true&width=650&height=160&lines=101010101010101010101010;010101010101010101010101;SYSTEM+OVERRIDE...;WELCOME+OPERATOR)](https://git.io/typing-svg)
+  <!-- Eye -->
+  <circle cx="157" cy="83" r="2" fill="black"/>
+
+  <!-- Binary accents -->
+  <text x="40" y="280" font-family="monospace" font-size="18" fill="#00ff41">
+    01001011 01000001 01001100 01001001
+  </text>
+</svg>
 
 📁 GitHub Repo Structure:
 ```
