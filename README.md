@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Storm&pause=200&color=00FF41&multiline=true&width=600&height=140&lines=101001011010010110100101;010110100101101001011010;110100101101001011010010;ACCESSING+WenaXMD...;ACCESS+GRANTED)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=200&color=00FF41&multiline=true&width=600&height=140&lines=101001011010010110100101;010110100101101001011010;110100101101001011010010;ACCESSING+WenaXMD...;ACCESS+GRANTED)](https://git.io/typing-svg)
 
 
 ```
